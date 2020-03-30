@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=allrevvedup
+POSTGRES_USER=YfhwEPEPYyxPmKqpiaEwWWMuQhcUoVKn
+POSTGRES_PASSWORD=9n4y9mFhSwXXtl7d3qFmAuuH9a6j3b5e6ny5rARfYkbcqOPaRMIFXLDcIFcWuX8G
